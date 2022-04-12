@@ -1,0 +1,6 @@
+{
+    "authority": "https://login.microsoftonline.com/<YOUR TENANT ID from the Azure AD App Registration>",
+    "client_id": "THE CLIENT ID from the Azure AD App Registration",
+    "scope": ["api://<THE CLIENT ID from the API App Registration>/.default"],
+    "client_secret": "<YOUR CLIENT SECRET from the Azure AD App Registration>"
+}

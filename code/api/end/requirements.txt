@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+jinja2
+aiofiles
+requests
+httptools
+fastapi-microsoft-identity

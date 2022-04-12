@@ -1,0 +1,6 @@
+{
+  "api_key": "YOUR_API_KEY_FROM openweathermap.org",
+  "action": "copy this to settings.json with real values.",
+  "client_id" :"THE CLIENT ID from your Azure AD app registration",
+  "tenant_id" :"THE TENANT ID from your Azure AD app registration"
+}
